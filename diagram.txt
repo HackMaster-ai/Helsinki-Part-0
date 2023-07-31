@@ -1,0 +1,6 @@
+title adding a new note
+
+browser->server: https://studies.cs.helsinki.fi/exampleapp/new_note_spa
+note left of browser: the browser send the text inserted by the user and the date of the insertion
+server-->browser: https://studies.cs.helsinki.fi/exampleapp/spa
+note right of server: the server add the new note to the notes and then display the note pages with new note added
